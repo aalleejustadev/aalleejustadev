@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 <h3>👨🏻‍💻 About Me </h3>
 I'm Ali Murtaza, a 29-year-old technical enthusiast who does web development, UI and UX design, and WordPress development. Passionate to contribute to open-source projects and make cool products.<br>
-I'm also learning React JS at this moment which is also going to add one more skill to my skillset 🚀 I've been working as a WordPress developer for the last 6 years or more, and now I'm switching to JavaScript world or I should say React JS more specifically.
+I'm also learning React JS at this moment which is also going to add one more skill to my skillset 🚀 I've been working as a WordPress developer for the last 6 years or more, and now I'm switching to the JavaScript world or I should say React JS more specifically.
 
 ## 📫 How to reach me: 
-Follow on 👉 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)
-Follow on 👉 [LinkedIn](https://www.linkedin.com/in/ali-murtaza-5944a915b/) </br>
+Follow on 👉 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)[LinkedIn](https://www.linkedin.com/in/ali-murtaza-5944a915b/) </br>
 Give a Star on 👉 [GitHub](https://github.com/iamalimurtaza) </br>
 Hire on 👉 [Upwork](https://www.upwork.com/freelancers/~012ab6fd670f164d79) </br>
 Follow on 👉 [Twitter](https://twitter.com/iamalimurtazaa)
