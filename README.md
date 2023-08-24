@@ -22,14 +22,25 @@ I'm Ali Murtaza, a 29-year-old technical enthusiast who does web development, UI
 I'm also learning React JS at this moment which is also going to add one more skill to my skillset 🚀 I've been working as a WordPress developer for the last 6 years or more, and now I'm switching to the JavaScript world or I should say React JS more specifically.
 
 ## 📫 How to reach me:
+Follow on 👉 
 <a href="https://www.linkedin.com/in/ali-murtaza-5944a915b">
-  Follow on 👉 
-  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="linkedin" />
-</a>
-Follow on 👉 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)[LinkedIn](https://www.linkedin.com/in/ali-murtaza-5944a915b/) </br>
-Give a Star on 👉 [GitHub](https://github.com/iamalimurtaza) </br>
-Hire on 👉 [Upwork](https://www.upwork.com/freelancers/~012ab6fd670f164d79) </br>
-Follow on 👉 [Twitter](https://twitter.com/iamalimurtazaa)
+  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn" />
+</a><br />
+
+Give me a star on 👉 
+<a href="https://github.com/iamalimurtaza">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
+</a><br />
+
+Hire on 👉 
+<a href="https://www.upwork.com/freelancers/~012ab6fd670f164d79">
+  <img src="https://img.shields.io/badge/-UpWork-333333?style=flat&logo=upwork" alt="Upwork" />
+</a><br />
+
+Follow on 👉 
+<a href="https://twitter.com/iamalimurtazaa">
+  <img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
+</a><br />
 
 ## 🛠 Tech Stack
 
@@ -54,6 +65,8 @@ Follow on 👉 [Twitter](https://twitter.com/iamalimurtazaa)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Adobe XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
 
