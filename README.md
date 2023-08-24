@@ -35,8 +35,13 @@ I'm also learning React JS at this moment which is also going to add one more sk
   <img src="https://img.shields.io/badge/-Follow%20me%20on%20Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
 </a>
 
-## 🛠 Tech Stack
+## 🛠 My Stats
+<a href="https://github.com/iamalimurtaza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamalimurtaza&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamalimurtaza&theme=buefy&layout=compact" />
+</a>
 
+## 🛠 Tech Stack
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
