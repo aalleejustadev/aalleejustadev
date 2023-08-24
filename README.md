@@ -42,11 +42,12 @@ I'm also learning React JS at this moment which is also going to add one more sk
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)<br />
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
   ![Next.js](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextdotjs)
   ![React](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
   ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react-router)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
