@@ -34,6 +34,9 @@ I'm also learning React JS at this moment which is also going to add one more sk
 <a href="https://twitter.com/iamalimurtazaa">
   <img src="https://img.shields.io/badge/-Follow%20me%20on%20Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
 </a>
+<a href="mailto:ali@badoatech.com">
+  ✉️ <img src="https://img.shields.io/badge/-Send%20me%20an%20email-333333" alt="Send me an email" />
+</a>
 
 ## 🛠 Tech Stack
 
@@ -42,7 +45,7 @@ I'm also learning React JS at this moment which is also going to add one more sk
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)<br />
+  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
   ![Next.js](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextdotjs)
   ![React](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
