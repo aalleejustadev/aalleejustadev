@@ -49,9 +49,10 @@ Follow on 👉
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
   ![Next.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=nextdotjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
