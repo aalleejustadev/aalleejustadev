@@ -35,7 +35,7 @@ I'm also learning React JS at this moment which is also going to add one more sk
   <img src="https://img.shields.io/badge/-Follow%20me%20on%20Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
 </a>
 <a href="mailto:ali@badoatech.com">
-  ✉️ <img src="https://img.shields.io/badge/-Send%20me%20an%20email-333333" alt="Send me an email" />
+  <img src="https://img.shields.io/badge/-✉️%20Send%20me%20an%20email-333333" alt="Send me an email" />
 </a>
 
 ## 🛠 Tech Stack
