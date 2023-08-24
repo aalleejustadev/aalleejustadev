@@ -15,26 +15,22 @@ Here are some ideas to get you started:
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-### Hi there I'm [Ali!](https://www.upwork.com/freelancers/~012ab6fd670f164d79)👋
+### Hi there I'm [Ali!](https://www.upwork.com/freelancers/~012ab6fd670f164d79)👋 </hr>
 
 <h3>👨🏻‍💻 About Me </h3>
 I'm Ali Murtaza, a 29-year-old technical enthusiast who does web development, UI and UX design, and WordPress development. Passionate to contribute to open-source projects and make cool products.<br>
 I'm also learning React JS at this moment which is also going to add one more skill to my skillset 🚀 I've been working as a WordPress developer for the last 6 years or more, and now I'm switching to JavaScript world or I should say React JS more specifically.
 
 ## 📫 How to reach me: 
+Follow on 👉 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)
 Follow on 👉 [LinkedIn](https://www.linkedin.com/in/ali-murtaza-5944a915b/) </br>
 Give a Star on 👉 [GitHub](https://github.com/iamalimurtaza) </br>
 Hire on 👉 [Upwork](https://www.upwork.com/freelancers/~012ab6fd670f164d79) </br>
 Follow on 👉 [Twitter](https://twitter.com/iamalimurtazaa)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠 Tech Stack
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -53,9 +49,7 @@ Follow on 👉 [Twitter](https://twitter.com/iamalimurtazaa)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
