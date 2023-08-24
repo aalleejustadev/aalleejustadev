@@ -51,8 +51,8 @@ Follow on 👉
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-  ![Next.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=nextdotjs)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextdotjs)
+  ![React](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
