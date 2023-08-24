@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 ### Hi there I'm [Ali!](https://www.upwork.com/freelancers/~012ab6fd670f164d79)👋
 I'm Ali Murtaza, a 29-year-old technical enthusiast who does web development, UI and UX design, and WordPress development. Passionate to contribute to open-source projects and make cool products.<br>
 I'm also learning React JS at this moment which is also going to add one more skill to my skillset 🚀
 ## 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/ali-murtaza-5944a915b/)
 [GitHub](https://github.com/iamalimurtaza)
-[[Upwork](https://www.upwork.com/freelancers/~012ab6fd670f164d79)
+[Upwork](https://www.upwork.com/freelancers/~012ab6fd670f164d79)
 [Twitter](https://twitter.com/iamalimurtazaa)
 
 - 🌱 I’m currently learning ReactJS
