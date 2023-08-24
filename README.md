@@ -25,18 +25,15 @@ I'm also learning React JS at this moment which is also going to add one more sk
 <a href="https://www.linkedin.com/in/ali-murtaza-5944a915b">
   <img src="https://img.shields.io/badge/-Follow%20me%20on%20LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
-
 <a href="https://github.com/iamalimurtaza">
   <img src="https://img.shields.io/badge/-Give%20me%20a%20star%20on%20GitHub-333333?style=flat&logo=github" alt="GitHub" />
-</a><br />
-
+</a>
 <a href="https://www.upwork.com/freelancers/~012ab6fd670f164d79">
   <img src="https://img.shields.io/badge/-Hire%20me%20on%20UpWork-333333?style=flat&logo=upwork" alt="Upwork" />
-</a><br />
-
+</a>
 <a href="https://twitter.com/iamalimurtazaa">
   <img src="https://img.shields.io/badge/-Follow%20me%20on%20Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
-</a><br />
+</a>
 
 ## 🛠 Tech Stack
 
