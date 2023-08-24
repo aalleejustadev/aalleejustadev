@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 I'm Ali Murtaza, a 29-year-old technical enthusiast who does web development, UI and UX design, and WordPress development. Passionate to contribute to open-source projects and make cool products.<br>
 I'm also learning React JS at this moment which is also going to add one more skill to my skillset 🚀 I've been working as a WordPress developer for the last 6 years or more, and now I'm switching to the JavaScript world or I should say React JS more specifically.
 
-## 📫 How to reach me: 
+## 📫 How to reach me:
+<a href="https://www.linkedin.com/in/ali-murtaza-5944a915b">
+  Follow on 👉 
+  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="linkedin" />
+</a>
 Follow on 👉 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)[LinkedIn](https://www.linkedin.com/in/ali-murtaza-5944a915b/) </br>
 Give a Star on 👉 [GitHub](https://github.com/iamalimurtaza) </br>
 Hire on 👉 [Upwork](https://www.upwork.com/freelancers/~012ab6fd670f164d79) </br>
@@ -34,8 +38,9 @@ Follow on 👉 [Twitter](https://twitter.com/iamalimurtazaa)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=nextdotjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
