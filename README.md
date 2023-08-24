@@ -24,22 +24,22 @@ I'm also learning React JS at this moment which is also going to add one more sk
 ## 📫 How to reach me:
 Follow on 👉 
 <a href="https://www.linkedin.com/in/ali-murtaza-5944a915b">
-  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-Follow%20on%20LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn" />
 </a><br />
 
 Give me a star on 👉 
 <a href="https://github.com/iamalimurtaza">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Give%20me%20a%20star%20onGitHub-333333?style=flat&logo=github" alt="GitHub" />
 </a><br />
 
 Hire on 👉 
 <a href="https://www.upwork.com/freelancers/~012ab6fd670f164d79">
-  <img src="https://img.shields.io/badge/-UpWork-333333?style=flat&logo=upwork" alt="Upwork" />
+  <img src="https://img.shields.io/badge/-Hire%20me%20on%20UpWork-333333?style=flat&logo=upwork" alt="Upwork" />
 </a><br />
 
 Follow on 👉 
 <a href="https://twitter.com/iamalimurtazaa">
-  <img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
+  <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
 </a><br />
 
 ## 🛠 Tech Stack
@@ -53,9 +53,11 @@ Follow on 👉
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
   ![Next.js](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextdotjs)
   ![React](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
+  ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react-router)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
