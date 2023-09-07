@@ -35,6 +35,10 @@ I'm also learning React JS at this moment which is also going to add one more sk
   <img src="https://img.shields.io/badge/-Follow%20me%20on%20Twitter-333333?style=flat&logo=twitter" alt="Twitter" />
 </a>
 
+<a href="https://www.instagram.com/aalleejustadev/">
+  <img src="https://img.shields.io/badge/-Follow%20me%20on%20Instagram-333333?style=flat&logo=instagram" alt="Instagram" />
+</a>
+
 <!--
 ## 🛠 My Stats
 <a href="https://github.com/iamalimurtaza">
@@ -72,4 +76,4 @@ I'm also learning React JS at this moment which is also going to add one more sk
 
 <br/>
 
-⭐️ From [iamalimurtaza](https://github.com/iamalimurtaza)
+⭐️ From [aalleeJustADev](https://github.com/aalleejustadev)
