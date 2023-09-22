@@ -74,6 +74,4 @@ I'm also learning React JS at this moment which is also going to add one more sk
 
 <br/>
 
-<a href="https://app.daily.dev/aallee"><img src="https://api.daily.dev/devcards/b1145f3e566141bdb57a203670bf806a.png?r=xc7" width="250" alt="Ali Murtaza's Dev Card"/></a>
-
 ⭐️ From [aalleeJustADev](https://github.com/aalleejustadev)
