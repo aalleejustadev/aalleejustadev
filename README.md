@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<a href="https://app.daily.dev/aallee"><img src="https://api.daily.dev/devcards/b1145f3e566141bdb57a203670bf806a.png?r=xc7" width="400" alt="Ali Murtaza's Dev Card"/></a>
+<!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
 
 ### Hi there I'm [Ali!](https://www.upwork.com/freelancers/~012ab6fd670f164d79)👋 </hr>
 
