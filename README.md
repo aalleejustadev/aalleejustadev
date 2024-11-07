@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there I'm [Ali!](http://devdivine.studio)👋 </hr>
-### Peace
+### Hi there I'm Ali👋 </hr>
+### Here's my [YouTube Channel Link](http://devdivine.studio)
