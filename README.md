@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there I'm [Ali!](http://devdivine.studio)👋 </hr>
-## Peace
+# Peace
