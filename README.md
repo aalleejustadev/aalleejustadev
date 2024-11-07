@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there I'm Ali👋 </hr>
-### Here's my [YouTube Channel Link](http://devdivine.studio)
+### Visit my [YouTube Channel](http://devdivine.studio)
